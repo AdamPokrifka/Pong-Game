@@ -1,0 +1,11 @@
+C:\Users\apokrifka\Desktop\C#\SinglePongTB\obj\Debug\SinglePongTB.csproj.AssemblyReference.cache
+C:\Users\apokrifka\Desktop\C#\SinglePongTB\obj\Debug\SinglePongTB.Form1.resources
+C:\Users\apokrifka\Desktop\C#\SinglePongTB\obj\Debug\SinglePongTB.Properties.Resources.resources
+C:\Users\apokrifka\Desktop\C#\SinglePongTB\obj\Debug\SinglePongTB.csproj.GenerateResource.cache
+C:\Users\apokrifka\Desktop\C#\SinglePongTB\obj\Debug\SinglePongTB.csproj.CoreCompileInputs.cache
+C:\Users\apokrifka\Desktop\C#\SinglePongTB\bin\Debug\SinglePongTB.exe.config
+C:\Users\apokrifka\Desktop\C#\SinglePongTB\bin\Debug\SinglePongTB.exe
+C:\Users\apokrifka\Desktop\C#\SinglePongTB\bin\Debug\SinglePongTB.pdb
+C:\Users\apokrifka\Desktop\C#\SinglePongTB\obj\Debug\SinglePongTB.exe
+C:\Users\apokrifka\Desktop\C#\SinglePongTB\obj\Debug\SinglePongTB.pdb
+C:\Users\apokrifka\Desktop\C#\SinglePongTB\obj\Debug\SinglePongTB.exe.config
