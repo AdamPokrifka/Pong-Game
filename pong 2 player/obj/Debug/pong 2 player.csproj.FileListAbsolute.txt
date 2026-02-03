@@ -1,0 +1,4 @@
+C:\Users\apokrifka\Desktop\C#\pong 2 player\obj\Debug\pong 2 player.csproj.AssemblyReference.cache
+C:\Users\apokrifka\Desktop\C#\pong 2 player\obj\Debug\pong_2_player.Properties.Resources.resources
+C:\Users\apokrifka\Desktop\C#\pong 2 player\obj\Debug\pong 2 player.csproj.GenerateResource.cache
+C:\Users\apokrifka\Desktop\C#\pong 2 player\obj\Debug\pong 2 player.csproj.CoreCompileInputs.cache
