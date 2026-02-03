@@ -1,0 +1,12 @@
+C:\Users\apokrifka\Desktop\C#\CPUpongTB\bin\Debug\CPUpongTB.exe.config
+C:\Users\apokrifka\Desktop\C#\CPUpongTB\bin\Debug\CPUpongTB.exe
+C:\Users\apokrifka\Desktop\C#\CPUpongTB\bin\Debug\CPUpongTB.pdb
+C:\Users\apokrifka\Desktop\C#\CPUpongTB\obj\Debug\CPUpongTB.csproj.AssemblyReference.cache
+C:\Users\apokrifka\Desktop\C#\CPUpongTB\obj\Debug\SinglePongTB.Form1.resources
+C:\Users\apokrifka\Desktop\C#\CPUpongTB\obj\Debug\CPUpongTB.Properties.Resources.resources
+C:\Users\apokrifka\Desktop\C#\CPUpongTB\obj\Debug\CPUpongTB.csproj.GenerateResource.cache
+C:\Users\apokrifka\Desktop\C#\CPUpongTB\obj\Debug\CPUpongTB.csproj.CoreCompileInputs.cache
+C:\Users\apokrifka\Desktop\C#\CPUpongTB\obj\Debug\CPUpongTB.exe
+C:\Users\apokrifka\Desktop\C#\CPUpongTB\obj\Debug\CPUpongTB.pdb
+C:\Users\apokrifka\Desktop\C#\CPUpongTB\obj\Debug\CPUpongTB.exe.config
+C:\Users\apokrifka\Desktop\C#\CPUpongTB\obj\Debug\CPUpongTB.titleLabel.resources
