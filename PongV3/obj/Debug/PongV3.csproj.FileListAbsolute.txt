@@ -1,0 +1,10 @@
+C:\Users\apokrifka\Desktop\C#\PongV3\obj\Debug\PongV3.csproj.AssemblyReference.cache
+C:\Users\apokrifka\Desktop\C#\PongV3\obj\Debug\PongV3.Properties.Resources.resources
+C:\Users\apokrifka\Desktop\C#\PongV3\obj\Debug\PongV3.csproj.GenerateResource.cache
+C:\Users\apokrifka\Desktop\C#\PongV3\obj\Debug\PongV3.csproj.CoreCompileInputs.cache
+C:\Users\apokrifka\Desktop\C#\PongV3\bin\Debug\PongV3.exe.config
+C:\Users\apokrifka\Desktop\C#\PongV3\bin\Debug\PongV3.exe
+C:\Users\apokrifka\Desktop\C#\PongV3\bin\Debug\PongV3.pdb
+C:\Users\apokrifka\Desktop\C#\PongV3\obj\Debug\PongV3.exe
+C:\Users\apokrifka\Desktop\C#\PongV3\obj\Debug\PongV3.pdb
+C:\Users\apokrifka\Desktop\C#\PongV3\obj\Debug\PongV3.exe.config
