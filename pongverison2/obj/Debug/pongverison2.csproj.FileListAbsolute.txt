@@ -1,0 +1,10 @@
+C:\Users\apokrifka\Desktop\C#\pongverison2\bin\Debug\pongverison2.exe.config
+C:\Users\apokrifka\Desktop\C#\pongverison2\bin\Debug\pongverison2.exe
+C:\Users\apokrifka\Desktop\C#\pongverison2\bin\Debug\pongverison2.pdb
+C:\Users\apokrifka\Desktop\C#\pongverison2\obj\Debug\pongverison2.csproj.AssemblyReference.cache
+C:\Users\apokrifka\Desktop\C#\pongverison2\obj\Debug\pongverison2.Properties.Resources.resources
+C:\Users\apokrifka\Desktop\C#\pongverison2\obj\Debug\pongverison2.csproj.GenerateResource.cache
+C:\Users\apokrifka\Desktop\C#\pongverison2\obj\Debug\pongverison2.csproj.CoreCompileInputs.cache
+C:\Users\apokrifka\Desktop\C#\pongverison2\obj\Debug\pongverison2.exe
+C:\Users\apokrifka\Desktop\C#\pongverison2\obj\Debug\pongverison2.pdb
+C:\Users\apokrifka\Desktop\C#\pongverison2\obj\Debug\pongverison2.exe.config
